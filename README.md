@@ -3,7 +3,7 @@ Chintan
 **LISA**
 *THIMIRA*
 
-~food~
+~~food~~
 
 'milkshake'
 [Google](https://www.google.com/)
