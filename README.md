@@ -2,9 +2,11 @@
 Chintan
 **LISA**
 *THIMIRA*
+
 ~food~
+
 'milkshake'
-[Google](www.google.com)
+[Google](https://www.google.com/)
 
 
 "donut"
